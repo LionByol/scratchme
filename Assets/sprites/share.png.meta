@@ -1,0 +1,155 @@
+fileFormatVersion: 2
+guid: bff37b4e9150a4be2a3e918a8959dc19
+timeCreated: 1477211487
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: b_btn1
+    21300002: b_btn2
+    21300004: coin1
+    21300006: rate
+    21300008: share
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 512
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: b_btn1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 185
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -92.5, y: 40}
+        - {x: -92.5, y: -40}
+        - {x: 92.5, y: -40}
+        - {x: 92.5, y: 40}
+    - name: b_btn2
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 127
+        width: 286
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -127, y: 36.5}
+        - {x: -134, y: 34.5}
+        - {x: -143, y: 25.5}
+        - {x: -143, y: -32.5}
+        - {x: -138, y: -36.5}
+        - {x: 134, y: -36.5}
+        - {x: 143, y: -33.5}
+        - {x: 143, y: 34.5}
+        - {x: 142, y: 36.5}
+    - name: coin1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 6
+        width: 100
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 53}
+        - {x: -50, y: -34}
+        - {x: -24, y: -53}
+        - {x: 36, y: -53}
+        - {x: 50, y: -7}
+        - {x: 50, y: 53}
+    - name: rate
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 40
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 33.5}
+        - {x: -32, y: 31.5}
+        - {x: -32, y: -25.5}
+        - {x: -31, y: -27.5}
+        - {x: -13, y: -33.5}
+        - {x: 13, y: -33.5}
+        - {x: 32, y: -24.5}
+        - {x: 32, y: 25.5}
+        - {x: 14, y: 33.5}
+    - name: share
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 40
+        width: 61
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.5, y: 5.5}
+        - {x: 30.5, y: 34.5}
+        - {x: 6.5, y: 34.5}
+        - {x: -30.5, y: 17.5}
+        - {x: -30.5, y: -7.5}
+        - {x: -27.5, y: -13.5}
+        - {x: 9.5, y: -34.5}
+        - {x: 30.5, y: -34.5}
+        - {x: 30.5, y: -15.5}
+        - {x: 27.5, y: -11.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
