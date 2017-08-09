@@ -5,3 +5,5 @@
 - https://play.google.com/store/apps/details?id=com.scratch.croatia
 - https://play.google.com/store/apps/details?id=com.scratch.norway
 - https://play.google.com/store/apps/details?id=com.scratch.bulgaria
+
+App is located on google store.
